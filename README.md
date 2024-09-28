@@ -1,7 +1,8 @@
 This QR code generator project generates QR codes for a dataset of website URLs. When a QR code is scanned, it redirects the user to the associated website.
  Output of the project is given below
  
- ![output](https://github.com/user-attachments/assets/35dad445-c094-4e9e-93fa-c084cbe03688)
+![output(1)(1)(1)(1)](https://github.com/user-attachments/assets/49a2fda0-793a-41c3-a3c2-6a73e48510f9)
+
 
 
  
